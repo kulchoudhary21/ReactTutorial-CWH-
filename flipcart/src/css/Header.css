@@ -1,0 +1,47 @@
+.head
+{
+    background-color: rgb(40,116,240);
+    height: 60px;
+    width: 100%;
+}
+._1kfTjk {
+    padding-bottom: 56px;
+    min-width: 978px;
+    position: relative;
+}
+._2M8cLY ._2oO9oE ._3704LK {
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+    width: 100%;
+}        
+.fonts-loaded input, .fonts-loaded select, .fonts-loaded textarea {
+    font-family: Roboto,Arial,sans-serif;
+    letter-spacing: 0;
+}
+input {
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}

@@ -1,0 +1,19 @@
+// import { useEffect } from 'react';
+ 
+// const name = "Thomas"
+ 
+// const printName = (value) => {
+//     console.log(value);
+// };
+ 
+// const Dependecies_in_UE = () => {
+ 
+//     useEffect(() => {
+//         printName(name);
+//     }, [name, printName]);
+ 
+//     return <p>UseEffect!</p>;
+// };
+ 
+
+//  export default Dependecies_in_UE;
